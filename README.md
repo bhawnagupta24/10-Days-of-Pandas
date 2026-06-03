@@ -35,6 +35,56 @@ Topics Covered:
 - join()
 - Inner, Left, Right & Outer Joins
 
+## ✅ Day 05 - GroupBy and Aggregation
+
+Topics Covered:
+
+- Grouping data using groupby()
+- Summing grouped values
+- Grouping by multiple columns
+- Aggregation functions
+- Mean, min, max, median, count, and standard deviation
+
+## ✅ Day 06 - Pivot Tables and Crosstab
+
+Topics Covered:
+
+- Creating pivot tables
+- Using crosstab()
+- Working with date columns
+- Extracting months and quarters
+- Sales data analysis
+
+## ✅ Day 07 - DataFrame Operations
+
+Topics Covered:
+
+- DataFrame properties
+- shape, columns, info(), and describe()
+- Column operations
+- Applying custom functions
+- Using apply()
+- Creating new columns
+
+## ✅ Day 08 - Dataset Analysis Practice
+
+Topics Covered:
+
+- Reading CSV files
+- Data exploration and analysis
+- Filtering and sorting data
+- Finding maximum and minimum values
+- Working with missing values
+- Custom functions with apply()
+- String processing
+- Real-world dataset analysis
+
+Datasets Used:
+- Countries Dataset
+- Anime Dataset
+
+
+
 ---
 
 ## 🛠️ Technologies Used
